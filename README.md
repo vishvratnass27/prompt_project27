@@ -1,7 +1,6 @@
 # prompt_project27
 It appears that you are working on a chatbot application using Tkinter in Python. The application allows users to interact with a chatbot powered by OpenAI's GPT-3.5 language model. The code you provided sets up the GUI for the chatbot application, including the chat log display, user input text box, and send button.
-
-To create a GitHub description for your project, you can provide a brief summary of its purpose and features. Here's an example description:
+can provide a brief summary of its purpose and features. Here's an example description:
 
 Chatbot App with GPT-3.5
 This is a chatbot application built using Python and Tkinter, incorporating OpenAI's GPT-3.5 language model. The chatbot allows users to have interactive conversations with an AI-powered assistant.
